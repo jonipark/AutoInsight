@@ -1,55 +1,39 @@
 # AutoInsight
- ![AutoInsight 포트폴리오 이미지](https://github.com/KimGyoungTae/XREAL_AutoInsight/assets/83820089/772032cf-6216-4940-8335-8f0319d15d68)
-<br>
+### A VR showroom for intuitive car model and option comparison
 
-XREAL 5기 리서치º데브º디자인(리뎁디) 협업 프로젝트
 
-🎥 데모 영상 : https://www.youtube.com/watch?v=MCyvLKMf1yM
+`XREAL 5th Research·Development·Design (ReDevDes) Collaboration Project`
 
-<br>
+🎥 Demo : https://www.youtube.com/watch?v=MCyvLKMf1yM
 
-## 🖥️ 프로젝트 소개
-- 자동차에 대해 잘 알지 못해 여러 브랜드별 차종 모델 중 어느 것을 골라야 할지 고민되는 신차 구매 고객을 주요 타겟으로 설정함.
-- 3D VR 환경에서 다양한 차량의 시각적 특성 및 옵션 정보 제공으로 신차 구매 시 복잡한 의사결정을 보조하고자 함.
+<img width="600" alt="Screenshot 2025-05-05 at 9 23 41 PM" src="https://github.com/user-attachments/assets/f68e27dd-39d5-4b79-89d6-bb8a07633076" />
 
 <br>
 
-## 📌 프로젝트 기획의도
-Web Viewer or 360도 영상 기반으로 된 기존 차량 구매 환경의 불편 사항을 개선하고자 시작된 프로젝트
-- 구매를 원하는 브랜드, 차종별로 따로 옵션 탐색, 견적을 내야 하는 번거로움을 VR 쇼룸에서 차종, 브랜드 구애 받지 않고 견적, 옵션 모두 확인 가능하도록 함.
-- 오프라인의 경우, 시승 장소 및 시간대의 제약으로 인해 충분한 경험 확보가 어려움을 물리적 제약 및 시간제한 없이 차량의 다양한 요소들을 꼼꼼하게 체험할 수 있도록 함.
-- 옵션의 시각적 탐색 정보 부족 및 360도 영상의 한정된 시점에 대한 불편함을 VR 시뮬레이션을 통해 직관적으로 옵션의 만족도를 체크할 수 있도록 함.
+## 🖥️ Project Overview
+
+- Targeted at new car buyers who are unsure about which model to choose among the various options from different brands due to limited knowledge about cars.
+- Aims to support complex decision-making during new car purchases by providing visual characteristics and option details for various vehicles in a 3D VR environment.
+
+## 📌 Project Purpose
+
+This project was initiated to address the limitations of current car purchasing experiences, which are primarily based on web viewers or 360-degree videos.
+
+- In traditional online methods, users must explore options and get quotes separately for each brand and model. In contrast, the VR showroom allows users to check all models and options regardless of brand or type.
+- In offline settings, test driving is limited by time and location. This project enables users to thoroughly experience various vehicle features without physical or time constraints.
+- VR simulation offers a more intuitive way to assess satisfaction with different options, overcoming the lack of visual exploration and restricted viewpoints in 360-degree videos.
 
 <br>
 
-## 🙋 프로젝트 구성원
-<table>
-  <tr>
-    <td>
+## 🙋 Team Composition
 
-| 이름 | 역할 |
-|---------|---------|
-| 최승원  | Research, Team Leader |
-|복정욱|Research|
-|조민주|Research|
+The team consists of members from research, design, and development.
 
+**Research Team**
+- 최승원, 복정욱, 조민주
 
+**Design Team**
+- 옥금비, 한지윤, 김수현
 
-| 이름 | 역할 |
-|---------|---------|
-|옥금비|Design Leader|
-|한지윤|Design|
-|김수현|Design|
-
-
-
-| 이름 | 역할 |
-|---------|---------|
-| 김경태   | Dev Leader   |
-| 이민서   | Dev   |
-| 박조은   | Dev   |
-| 홍성재   | Dev   |
-
-  </tr>
-</table>
-
+**Development Team**
+- 김경태, 이민서, 홍성재, 박조은 (Joni Park)
